@@ -1,0 +1,8 @@
+Check,Result
+Total rows,9994
+Total columns,21
+Duplicate rows,0
+Missing values,0
+Sales <= 0,0
+Quantity <= 0,0
+Invalid shipping dates,0
